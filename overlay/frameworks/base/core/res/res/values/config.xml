@@ -375,7 +375,7 @@
     <bool name="config_enableAutoPowerModes">true</bool>
     
     <!-- Whether device supports proximity wake -->
-    <bool name="config_proximityCheckOnWake">true</bool>
+    <bool name="config_proximityCheckOnWake">false</bool>
     <integer name="config_proximityCheckTimeout">400</integer>
     <bool name="config_proximityCheckOnWakeEnabledByDefault">false</bool>
 
