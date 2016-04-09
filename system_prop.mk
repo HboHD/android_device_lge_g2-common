@@ -116,6 +116,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     debug.qualcomm.sns.libsensor1=e \
     persist.debug.sensors.hal=e \
     persist.debug.ar.hal=e
+    
+# Snap
+persist.camera.cpp.duplication=false
 
 # Wifi
 PRODUCT_PROPERTY_OVERRIDES += \
